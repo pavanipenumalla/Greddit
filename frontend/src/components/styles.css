@@ -1,0 +1,169 @@
+.home-btn{
+    margin: 2% 2% 5%;
+    width: 7rem;
+}
+
+.card1{
+    text-align: center;
+    width: 30rem;
+    background-color: rgb(165,201,202,0.3);
+    padding: 2% 2%;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.bottom-center {
+    margin: 0;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+/* .button-center { 
+    position: absolute; 
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+} */
+
+.icon{
+    padding-bottom: 5%; 
+    color: #000;
+}
+
+body{
+    background-color: #395B64;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.greddiit{
+    font-size: 2rem;
+    padding: 1% 4%;
+    font-family: 'Prompt', sans-serif;
+}
+
+.navbar{
+    background-color: rgb(0,0,0,0.6);
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* .card {
+    background-color: rgb(165,201,202,0.3);
+    padding: 2% 2%;
+} */
+
+.nav-icon{
+    padding-left: 10px;
+}
+
+/* Profile */
+
+/* .card{
+    color: #fff;
+} */
+
+.card-img{
+  border-radius: 50%;
+  border: 7px solid #fff;
+  width: 120px;
+  height: 120px;
+  float: right;
+}
+
+.card2{
+    width:40%;
+    background-color: rgb(165,201,202,0.3);
+    padding: 2% 2%;
+}
+
+.profile-btn{
+    border-radius:  8%;
+    margin: 2% 2% 5%;
+    width: 8rem;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+ 
+
+.bio{
+    padding-left: 3px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+    
+/* Followers */
+.remove-btn{
+    position: absolute;
+    right: 10px;
+    border-radius:8%;
+    width: 5rem;
+    outline: none;
+}
+
+.unfollow-btn{
+    position: absolute;
+    right: 10px;
+    border-radius:8%;
+    width: 6rem;
+    margin-left: 40%;
+    outline: none;
+}
+
+.names{
+    font-size: 1.5rem;
+    width: 15%;
+    padding-right: 20px;
+}
+
+form{
+    color: black;
+}
+
+.parallel {
+    display: inline-flex;
+    padding-bottom: 7%;
+}
+
+/* Subgreddits */
+
+.subg{
+    position: relative;
+    top: 10%;
+}
+
+.sgscard{
+    background-color: rgb(165,201,202,0.3);
+
+}
+
+.dobtn{
+    position: relative;
+    margin: 0 23%;
+}
+
+.dbtn{
+    position: relative;
+    margin-right: 6%;
+}
+
+.nav2{
+    background-color:#2C3639;
+}
+
+.horizontal-center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
